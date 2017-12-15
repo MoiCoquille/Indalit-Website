@@ -1,0 +1,14 @@
+<!-- This file is the Blog content page.  Veronique -->
+
+<div class="container">
+  <ul class="breadcrumb">
+    <li><a href="/">Home</a></li>
+    <li class="active">Blog</li>
+  </ul>
+<div id="main">
+  <h1>Blog</h1>
+
+<!-- If you set the index to false, you get the sidebar and no extract of the post. If you set the index to true, you loose the sidebar and get an extract of the post.  Veronique -->
+  <%- partial('_partial/archive', {pagination: config.archive, index: false}) %>
+</div>
+</div>
