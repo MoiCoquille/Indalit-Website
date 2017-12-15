@@ -1,0 +1,14 @@
+<!- This file is the content portion of the Blog section.  It has been copied from index.ejs which had the formating I wanted. ->
+<% if(page.content){ %>
+  <%- page.content %>
+<% } else { %>
+  <div class="container">
+    <ul class="breadcrumb">
+      <li class="active">Blog</li>
+    </ul>
+  <div id="main">
+    <%- partial('_partial/archive', {pagination: config.archive, index: true}) %>
+  </div>
+  </div>
+<% } %>
+
