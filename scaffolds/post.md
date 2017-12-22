@@ -4,7 +4,7 @@ date: {{ date }}
 author: Veronique Robitaille
 categories:
 - [AWS]
-- [Did you know?]
+- [Did You Know?]
 - [Cheat Sheets]
 - [Compute]
 - [Storage]
@@ -30,6 +30,7 @@ tags:
 - [Encryption]
 - [RDS]
 - [Storage Gateway]
+- [SQS]
 ---
 
 CONTENT
