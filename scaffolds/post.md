@@ -30,6 +30,7 @@ tags:
 - [Encryption]
 - [RDS]
 - [Storage Gateway]
+- [SQS]
 ---
 
 CONTENT

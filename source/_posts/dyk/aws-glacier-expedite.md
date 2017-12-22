@@ -3,7 +3,7 @@ title: Amazon Glacier Expedite
 author: Veronique Robitaille
 categories:
   - - AWS
-  - - Did You Know
+  - - Did You Know?
   - - Storage
 tags:
   - - Configuration
