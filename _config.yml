@@ -1,11 +1,11 @@
-# Hexo Configurations
+## Hexo Configuration
 ## Docs: https://hexo.io/docs/configuration.html
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Indalit.com
-subtitle: 
-description:
+title: Indalit Cloud Consulting providing AWS Certified Consultants
+subtitle: Indalit Cloud Consultants are all official AWS Certified Solutions Architects
+description: Idalit Cloud Consultants supports you in you Amazon Web Services journey
 author: Veronique Robitaille
 language:
 - en

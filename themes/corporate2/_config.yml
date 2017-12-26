@@ -1,7 +1,7 @@
-# Header Menu
+## Header Menu (right)
 menu:
   Home: /
-  Amazon Web Services: /aws/
+  Amazon Web Services: /amazon-web-services/
   DevOps: /devops/
   Blog: /archives/ # can set archive-dir in root config to custom value
   Contact: /contact/

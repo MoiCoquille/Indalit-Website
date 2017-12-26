@@ -1,7 +1,0 @@
-Insert html code directly in post without generating the <br>
-
-{% raw %}
-html tags & content
-{% endraw %}
-
-HTML Space: &nbsp;
